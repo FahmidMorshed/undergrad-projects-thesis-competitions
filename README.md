@@ -1,4 +1,4 @@
-# undergrad-class-projects-competitions
+# undergrad-projects-thesis-competitions
 
 Half of the projects from my undergrad life, class projects and competitions. Other half is lost due to laptop crash. And this is what I have now, for better or worse.
 
